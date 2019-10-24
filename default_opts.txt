@@ -1,0 +1,6 @@
+--multi
+--inline-info
+--ansi
+--color light,fg:#666666,bg:#fafafa,hl:#f44336,fg+:#666666,bg+:#cceae7
+--color hl+:#f44336,info:#82a550,border:#cceae7,prompt:#39adb5,pointer:#f44336
+--color marker:#e57373
