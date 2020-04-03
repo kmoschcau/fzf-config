@@ -1,6 +1,8 @@
 --multi
---inline-info
+--info inline
 --ansi
---color light,fg:#666666,bg:#fafafa,hl:#f44336,fg+:#666666,bg+:#cceae7
---color hl+:#f44336,info:#82a550,border:#cceae7,prompt:#39adb5,pointer:#f44336
---color marker:#e57373
+--color light,fg:#616161,bg:#fafafa,preview-fg:#616161,preview-bg:#fafafa
+--color hl:#f44336,fg+:#616161,bg+:#b2ebf2,gutter:#bdbdbd,hl+:#f44336
+--color info:#388e3c,border:#616161,prompt:#00b8d4,pointer:#616161
+--color marker:#03a9f4
+--preview 'fzf_preview {}'
